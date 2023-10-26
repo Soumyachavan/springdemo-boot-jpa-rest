@@ -10,6 +10,7 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
+//First Change
 @Entity
 @Table(name = "boot_products" )
 public class Product {
